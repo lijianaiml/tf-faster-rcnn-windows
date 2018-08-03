@@ -1,0 +1,8 @@
+setup_cuda.py
+nms/gpu_nms.cu
+nms/gpu_nms.pyx
+nms/nms_kernel.cu
+py_fast_rcnn_gpu.egg-info/PKG-INFO
+py_fast_rcnn_gpu.egg-info/SOURCES.txt
+py_fast_rcnn_gpu.egg-info/dependency_links.txt
+py_fast_rcnn_gpu.egg-info/top_level.txt
